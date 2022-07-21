@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    background: rgb(83, 83, 83);
+}
+svg{
+    height: 100%;
+    width: 100%;
+}
+.title{
+    text-align: center;
+    position: absolute;
+    z-index: 10;
+    bottom: 100px;
+    right: 30px;
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+    max-width: 33VW;
+    margin-right: 25px;
+}

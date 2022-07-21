@@ -1,0 +1,9 @@
+[
+  { "name": "Runner 1", "value": 15, "color": "#f4efd3" },
+  { "name": "Runner 2", "value": 10, "color": "#cccccc" },
+  { "name": "Runner 3", "value": 30, "color": "#c2b0c9" },
+  { "name": "Runner 4", "value": 25, "color": "#9656a1" },
+  { "name": "Runner 5", "value": 20, "color": "#fa697c" },
+  { "name": "Runner 6", "value": 35, "color": "#fcc169" },
+  { "name": "Runner 7", "value": 40, "color": "#fc2169" }
+]

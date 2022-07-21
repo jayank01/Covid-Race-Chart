@@ -1,0 +1,5 @@
+cleanData function => 
+https://gist.github.com/pantchayan/fadf698ea43a37e598a8a5a6da91b8c2
+
+data source =>
+https://ourworldindata.org/coronavirus 
